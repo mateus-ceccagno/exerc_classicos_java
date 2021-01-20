@@ -1,1 +1,1 @@
-# exerc_classicos_java
+Exercícios clássicos em Introdução a Programação e Programação Orientada a Objetos
