@@ -1,1 +1,1 @@
-Exercícios clássicos em Introdução a Programação e Programação Orientada a Objetos
+Exercícios clássicos de Introdução a Programação e de Programação Orientada a Objetos
